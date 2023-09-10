@@ -11,7 +11,7 @@ https://arxiv.org/abs/2308.07309
 
 ### Clone MetaWallet Repository 
 ```bash
-git clone https://github.com/yathin017/MetaWallet.git
+git clone https://github.com/jashwanthvemula/Meta-Wallet.git
 ```
 ```bash
 cd MetaWallet
